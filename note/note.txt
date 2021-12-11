@@ -1,0 +1,7 @@
+````````````````DJANGO API LESSION``````````````````````
+
+what is API````````````````````   
+Application programme interface , it allow two surface to communicate with each application
+why use API `````````````````````````
+it is used to make communicate between application such as front end application or mobile app and desktop app
+the only thing is that the API provides only the data the developer wants to render 
